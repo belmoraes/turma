@@ -1,3 +1,27 @@
 h1{color:brown;
+    font-size:x-large ;
+    text-align: center;
 
 }
+
+p{color:rgb(1, 1, 17);
+    width: 100px;
+    height: 100px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+
+}
+
+#botao-bonito{
+    color: rgb(245, 250, 253);
+    padding-left: 35px;
+    padding-top:15px;
+    padding-bottom: 15px;
+    padding-right: 35px;
+    background-color: rgb(218, 10, 79);
+    align-items: center;
+    
+}
+
